@@ -1,0 +1,66 @@
+/* custom.css */
+
+/* General body settings */
+.reveal {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Top-level title (#) */
+.reveal h1 {
+    font-size: 2em;
+    color: #7fffd4;
+}
+
+/* Second-level titles (##) */
+.reveal h2 {
+    font-size: 1.5em;
+    color: #ffa07a;
+}
+
+/* Third-level titles (###) */
+.reveal h3 {
+    font-size: 1.1em;
+    color: #ffb6c1;
+}
+
+/* Paragraph text */
+.reveal p, .reveal li {
+    font-size: 0.7em;
+}
+
+/* Links */
+.reveal a {
+    color: #00ffff;
+    text-decoration: underline;
+}
+
+/* Customize each slide slightly */
+.reveal section {
+    padding: 30px;
+}
+
+/* Specific style for the "Meet the participants" container */
+#bubbles-container {
+    height: 600px;
+}
+
+/* Optional: make the canvas bubbles smoother */
+#bubbles-canvas {
+    border: none;
+}
+
+/* Optional: background color for all slides */
+/* .reveal .slides {
+    background-color: #111;
+} */
+
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2em;
+}
+
+.two-columns .column {
+    flex: 1;
+}
