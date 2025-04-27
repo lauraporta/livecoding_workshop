@@ -3,9 +3,9 @@
 ## ✨ visuals ✨  
 27-04-25
 
-**WIFI:** TBD  
-**PASSWORD:** TBD
-
+**WIFI:** Next-Level
+**PASSWORD:** Shar3dpass
+**website**: https://lauraporta.github.io/cagliari_workshop2/
 ---
 
 ## Presentazioni
