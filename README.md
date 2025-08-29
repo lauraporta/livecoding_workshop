@@ -1,4 +1,4 @@
-# Cagliari Workshop
+# Live coding workshop
 
 A live coding workshop presentation built with **RevealJS** and hosted on **GitHub Pages**.
 
