@@ -1,7 +1,7 @@
 
 # Live coding workshop 
 ## ✨ visuals ✨  
-27-04-25
+30-08-25
 
 **WIFI:** Cave Guest  
 **PASSWORD:** UncleJohn3-16  
