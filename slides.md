@@ -3,9 +3,9 @@
 ## ✨ visuals ✨  
 27-04-25
 
-**WIFI:** Cave Guest
-**PASSWORD:** UncleJohn3-16
-**website**: https://lauraporta.github.io/livecoding_workshop/
+**WIFI:** Cave Guest  
+**PASSWORD:** UncleJohn3-16  
+**website**: https://lauraporta.github.io/livecoding_workshop/  
 ---
 
 ## Presentations
